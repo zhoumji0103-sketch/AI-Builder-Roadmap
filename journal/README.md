@@ -1,12 +1,23 @@
-# Learning Journal
+# Engineering Journal
 
-Daily reflections.
+This directory records my daily learning journey.
 
-Record every day:
+The purpose is not only to remember **what** I learned, but also to reflect on **why** it matters.
 
-- What I learned
-- Problems I met
-- What surprised me
-- Tomorrow's plan
+---
 
-The goal is continuous growth.
+## 2026
+
+- [2026-07-08](2026/2026-07-08.md)
+
+---
+
+## Writing Template
+
+Every journal contains:
+
+- Today's Goal
+- What I Learned
+- Biggest Challenge
+- Reflection
+- Tomorrow
