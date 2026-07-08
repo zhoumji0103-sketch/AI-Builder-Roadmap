@@ -15,7 +15,12 @@ This directory contains all technical notes.
 - MCP
 - System Design
 - Git
+- Computer Architecture
 
 ## Git
 
 - [Setup Personal GitHub on an Enterprise Laptop](git/setup-github-on-company-laptop.md)
+
+## Computer Architecture
+
+- [CPU Cache](computer-architecture/cpu-cache.md)
