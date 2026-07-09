@@ -9,6 +9,7 @@ The purpose is not only to remember **what** I learned, but also to reflect on *
 ## 2026
 
 - [2026-07-08](2026/2026-07-08.md)
+- [2026-07-09](2026/2026-07-09.md)
 
 ---
 

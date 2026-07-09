@@ -24,3 +24,4 @@ This directory contains all technical notes.
 ## Computer Architecture
 
 - [CPU Cache](computer-architecture/cpu-cache.md)
+- [Cache Optimization](computer-architecture/cache-optimization.md)
