@@ -27,6 +27,8 @@ This directory contains all technical notes.
 - [Cache Optimization](computer-architecture/cache-optimization.md)
 - [Virtual Memory](computer-architecture/virtual-memory.md)
 - [Translation Lookaside Buffer (TLB)](computer-architecture/tlb.md)
+- [Memory Hierarchy](computer-architecture/memory-hierarchy.md)
+- [Storage Devices](computer-architecture/storage-devices.md)
 
 ## Performance
 
